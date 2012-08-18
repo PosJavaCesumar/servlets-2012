@@ -1,0 +1,12 @@
+/.classpath
+/.clover
+/.factorypath
+/.project
+/.settings
+/.springBeans
+/.metadata
+/build
+/target
+/bin
+/*.tmp
+/*.log
